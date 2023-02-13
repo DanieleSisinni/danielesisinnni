@@ -1,4 +1,5 @@
-I'm Daniele Sisinni, a student of the University of Computer Science, fascinated by programming. 💻
+I'm Daniele Sisinni, a student of the University of Computer Science, fascinated by programming.
+
 Here you can find many of my university projects!
 <hr/>
 
