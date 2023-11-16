@@ -1,4 +1,4 @@
-I'm Daniele Sisinni, a student of the University of Computer Science.
+I'm Daniele Sisinni, graduated from the University of Computer Science.
 
 Here you can find many of my university projects!
 <hr/>
